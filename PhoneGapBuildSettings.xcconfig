@@ -1,0 +1,7 @@
+//
+//  PhoneGap.xcconfig
+//  FileTest0.9.3
+//
+
+// Override this to use your project specific PHONEGAPLIB
+PHONEGAPLIB = $(PHONEGAPLIB)
